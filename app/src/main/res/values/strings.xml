@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Risk Management</string>
+    <string name="wrong_values">You entered Invalid values! Please Enter valid integer values</string>
+    <string name="bearable_loss_monthly">Bearable Loss(Monthly): </string>
+    <string name="loss_per_day">Loss per Day:</string>
+    <string name="entry_price">Buying Price</string>
+    <string name="sl_price">Selling price</string>
+    <string name="quantities">Quantities</string>
+    <string name="expected_losses">Expected P/L:</string>
+    <string name="p_l_streak">P/L Streak:</string>
+</resources>

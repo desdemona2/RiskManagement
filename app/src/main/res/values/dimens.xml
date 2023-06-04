@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginhead">20dp</dimen>
+    <dimen name="headsize">22sp</dimen>
+    <dimen name="marginelem">16dp</dimen>
+    <dimen name="elemsize">20sp</dimen>
+</resources>
